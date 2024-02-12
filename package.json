@@ -1,0 +1,28 @@
+{
+  "name": "software-architecture-labs",
+  "version": "1.0.0",
+  "description": "My labs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadowDrake21/Software-architecture-labs.git"
+  },
+  "author": "Krapyvianskyi Dmytro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShadowDrake21/Software-architecture-labs/issues"
+  },
+  "homepage": "https://github.com/ShadowDrake21/Software-architecture-labs#readme",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
